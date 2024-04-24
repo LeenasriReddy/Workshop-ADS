@@ -1,0 +1,1 @@
+stringpattern.StringPattern
